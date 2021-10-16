@@ -1,6 +1,6 @@
 # weather
 
-A new Flutter project.
+A Flutter clone of a weather app UI.
 
 ## Getting Started
 
